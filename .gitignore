@@ -1,0 +1,8 @@
+build/
+bss/
+*.swp
+third_party/
+.idea/
+cmake-build-debug/
+.cache/
+CMakeFiles/
